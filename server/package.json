@@ -1,0 +1,29 @@
+{
+  "name": "assignment-8-raksha-kagadalu",
+  "version": "1.0.0",
+  "description": "ToDo Application Backend",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu-mis-info6150-spring-2022/assignment-8-Raksha-Kagadalu.git"
+  },
+  "author": "Raksha Kagadalu Raju",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neu-mis-info6150-spring-2022/assignment-8-Raksha-Kagadalu/issues"
+  },
+  "homepage": "https://github.com/neu-mis-info6150-spring-2022/assignment-8-Raksha-Kagadalu#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "debug": "^4.3.4",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.9"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13"
+  }
+}
