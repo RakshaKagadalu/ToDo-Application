@@ -1,8 +1,4 @@
-# Assignment 9:
 
-Name : Raksha Kagadalu Raju
-ID: 002920092
-NUID: kagadaluraju.r@northeastern.edu
 
 ## Table of content:
 
@@ -14,7 +10,7 @@ NUID: kagadaluraju.r@northeastern.edu
 
 ## About The Project:
 
-Project Title: Create a simple Todo react application using the REST APIs from Assignment 8.
+Project Title: Create a simple Todo react application using the REST APIs 
 
 The goal of this assignment is to Create a simple to-do app using MERN Stack.
 
@@ -28,20 +24,6 @@ The goal of this assignment is to Create a simple to-do app using MERN Stack.
 4. As a user, I should be able to add a to-do item by entering the title, description, due date, and time.
 5. As a user, I should be able to mark a to-do item as complete.
 
-## Requirements for this assignment:
-
-1. The goal of this assignment is to learn about Reactjs.
-2. Use fetch API to fetch data from the Nodejs server from assignment 7.
-3. You should use SCSS for CSS.
-4. You should use create-react-app for building the project.
-5. No JavaScript libraries should be used for this assignment.
-
-## Grading Guidelines:
-
-1. Code documentation. (10 Points)
-2. .gitignore, README.md, and multiple Git commits (10 Points)
-3. Your UI should be composed of multiple components. (10 Points)
-4. Assignment completion. (70 Points)
 
 ===========================================================================================================================================================
 
